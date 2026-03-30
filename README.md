@@ -1,12 +1,13 @@
 # sensor-fault-detection-ml
-Sensor Fault Detection in IoT using Machine Learning
-📖 Overview
+
+Overview
 
 This project detects faults in IoT sensor data using Machine Learning techniques. It combines sensor data analysis with predictive modeling to improve system reliability.
 
 ⚙️ Technologies Used
 Python
-Pandas, NumPy
+Pandas
+NumPy
 Scikit-learn
 📊 Methodology
 Data preprocessing (cleaning, normalization)
@@ -16,13 +17,13 @@ Evaluation using accuracy and confusion matrix
 📈 Results
 Achieved ~80% accuracy in fault classification
 Demonstrated effective fault detection on sensor data
-🔗 Files
-fault_detection.ipynb → ML model
-sensor_data.csv → dataset
+🔗 Project Files
+fault_detection.ipynb → Machine Learning model
+sensor_data.csv → Dataset
 🚀 Future Improvements
 Use Random Forest / Deep Learning
-Use real-time Arduino sensor data
-Improve dataset size
+Integrate real-time Arduino sensor data
+Increase dataset size for better accuracy
 👩‍💻 Author
 
 Shaik Naseema
